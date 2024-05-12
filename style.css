@@ -30,7 +30,7 @@
 .divp{
     display: flex;
     justify-content: space-around;
-    margin-left: auto;
+    margin-left: 400px;
     margin-right: auto;
 }
 .divimg{
