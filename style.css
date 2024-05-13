@@ -14,13 +14,15 @@
     text-align: center;
     border-bottom: 1px solid black;
 
-    
-    
 }
 
 .h1dior{
     text-align: center;
 }
+.h2text,h2:hover{
+    text-decoration: solid;
+}
+
 
 .pmoda{
     color: rgba(37, 54, 54, 0.614);
